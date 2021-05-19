@@ -4,4 +4,4 @@
 
 [Discord Server](https://discord.gg/E5NmQC5Z2n) 
 
-A small game currently in progress, message me on the discord for commit access
+A small game currently in progress, message me on the discord for commit access or submit a pull request
